@@ -15,7 +15,7 @@
   /* .5rem = 8px | 1rem = 16px | 1.5rem = 24px */
 
   --big-heading: 3.5rem;
-  --small-heading: calc(1.325rem + 0.9vw) !important;
+  --small-heading: calc(1.325rem + 0.9vw);
   --h1-font-size: 1.5rem;
   --h2-font-size: 1.25rem;
   --h3-font-size: 1.125rem;
